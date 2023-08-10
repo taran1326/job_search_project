@@ -1,5 +1,6 @@
 
 import { body, validationResult } from "express-validator";
+
 /**
  * Middleware to validate product data before submission.
  * Validates product name, image URL, price, and description.

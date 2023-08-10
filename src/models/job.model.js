@@ -1,7 +1,6 @@
 /**
  * This module defines functions related to managing job data.
  */
-
  let db_id = 3; // Used for generating unique job IDs
 
  // Example job data stored in memory
